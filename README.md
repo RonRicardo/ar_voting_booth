@@ -2,6 +2,7 @@
 
 ## Instructions
 -  Clone me and run ```bundle install```
+- ```rake db:migrate``` to set up your tables!
 
 ## Objectives
 
